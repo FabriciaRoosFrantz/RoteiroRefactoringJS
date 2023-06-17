@@ -32,6 +32,7 @@ function gerarFaturaStr (fatura, pecas) {
         }
       return total;
     }
+    
   let total = calcularTotalApresentacao(apre, peca);
       
   
